@@ -1,5 +1,7 @@
 # projetoJogosDigitaisA3Unp-main
-Projeto voltado para Web e Mobile Game Grupo Formado: Pedro Evaristo Dantas Hugo Gomes César Aughusto Lucas Martins
+Projeto voltado para Web e Mobile Game 
+
+Grupo Formado por: Pedro Evaristo Dantas; Hugo Da Costa Gomes; César Aughusto; Lucas Martins;
 
 O link do site online: https://unpprojetoa3.000webhostapp.com/index.php
 
